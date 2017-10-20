@@ -1,6 +1,27 @@
-= Séverin Tagliante-Saracino
+= My first post
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
+
+== How I installed Hubpress
+
+.Fork the hubpress.io repository
+.Rename your repository to kskarthik.github.io
+.Set values in hubpress/config.json like this :
+
+[Source, Json]
+----
+{
+  "meta": {
+    "username": "severin31",
+    "repositoryName": "severin31.github.io",
+    "branch": "master"
+  }
+}
+----
+
+.Go to https://severin31.github.io/hubpress
+
+.Login and write
