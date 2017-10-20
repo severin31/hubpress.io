@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://severin31.github.io",
     "hubpress": "https://severin31.github.io",
-    "theme": "//severin31.github.io/themes/casper",
+    "theme": "//severin31.github.io/themes/uno",
     "images": "https://severin31.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -25,8 +25,8 @@
     ]
   },
   "site": {
-    "title": "Yet Another Personal Weblog About Computing",
-    "description": "By Séverin T-Saracino",
+    "title": "Keep It Short & Simple",
+    "description": "My journey into the world of programming",
     "logo": "",
     "cover": "",
     "delay": "",
