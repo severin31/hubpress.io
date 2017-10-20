@@ -1,11 +1,10 @@
 = Easy start with HubPress
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
+:hp-image: /covers/cover.png
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
-== The easy installation step by step
+== Step by step installation
 To install http://hubpress.io/[HubPress], just follow *this* little recipe:
 
 . *Fork* the https://github.com/HubPress/hubpress.io/fork[hubpress.io repository]
@@ -21,6 +20,9 @@ To install http://hubpress.io/[HubPress], just follow *this* little recipe:
 . *Go to* `https://[yourgithubusername].github.io/hubpress`
 . *Login* and... start to write ^^
 
-Someone made a video...
+video::-gLCX9THFX0[youtube]
+Someone made a video, but i don't think you'll need it...
 
-video::gLCX9THFX0[youtube]
+== Choose a theme
+The default theme is casper... Let's try another one. _uno_ and _saga_ themes are known for having a better code block support, so they seem to be a good choice for me. In order to do that, two possibilies: modify the hubpress/config.json file, or click the "settings" menu entry. 
+
