@@ -11,7 +11,7 @@ To install http://hubpress.io/[HubPress], just follow *this* little recipe:
 . *Rename* your repository to [yourgithubusername].github.io
 . *Set* values in hubpress/config.json
 (optional since version 0.8) 
-[source,]
+[source,json]
 "meta": {
     "username": "[yourgithubusername]",
     "repositoryName": "[yourgithubusername].github.io",
