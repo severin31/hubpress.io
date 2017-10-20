@@ -8,8 +8,8 @@
 To install http://hubpress.io/[HubPress], just follow *this* little recipe:
 
 . *Fork* the https://github.com/HubPress/hubpress.io/fork[hubpress.io repository]
-. *Rename* your repository to [yourgithubusername].github.io
-. *Set* values in hubpress/config.json
+. *Rename* your repository to `[yourgithubusername].github.io`
+. *Set* values in `hubpress/config.json`
 (optional since version 0.8) 
 [source,json]
 "meta": {
@@ -24,5 +24,5 @@ video::-gLCX9THFX0[youtube]
 Someone made a video, but i don't think you'll need it...
 
 == Choose a theme
-The default theme is casper... Let's try another one. _uno_ and _saga_ themes are known for having a better code block support, so they seem to be a good choice for me. In order to do that, two possibilies: modify the hubpress/config.json file, or click the "settings" menu entry. 
+The default theme is casper... Let's try another one. _uno_ and _saga_ themes are known for having a better code block support, so they seem to be a good choice for me. In order to do that, two possibilies: modify the hubpress/config.json file, or click the "settings" menu entry. Be patient, refreshment sometimes takes several minutes.
 
