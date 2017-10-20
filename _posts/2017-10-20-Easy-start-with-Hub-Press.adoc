@@ -21,7 +21,7 @@ To install http://hubpress.io/[HubPress], just follow *this* little recipe:
 . *Login* and... start to write ^^
 
 
-Someone made a video, but i don't think you'll need it...
+Someone made a video, but i really think you won't need it...
 
 video::-gLCX9THFX0[youtube]
 
