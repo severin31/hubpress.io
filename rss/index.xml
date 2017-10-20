@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yet Another Personal Weblog About Computing]]></title><description><![CDATA[By Séverin T-Saracino]]></description><link>https://severin31.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Oct 2017 09:27:42 GMT</lastBuildDate><atom:link href="https://severin31.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Easy start with HubPress]]></title><description><![CDATA[<div class="sect1">
-<h2 id="_the_easy_installation_step_by_step">The easy installation step by step</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yet Another Personal Weblog About Computing]]></title><description><![CDATA[By Séverin T-Saracino]]></description><link>https://severin31.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Oct 2017 10:06:26 GMT</lastBuildDate><atom:link href="https://severin31.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Easy start with HubPress]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_step_by_step_installation">Step by step installation</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>To install <a href="http://hubpress.io/">HubPress</a>, just follow <strong>this</strong> little recipe:</p>
@@ -33,13 +33,21 @@
 </li>
 </ol>
 </div>
-<div class="paragraph">
-<p>Someone made a video&#8230;&#8203;</p>
-</div>
 <div class="videoblock">
 <div class="content">
-<iframe src="https://www.youtube.com/embed/gLCX9THFX0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-gLCX9THFX0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+</div>
+<div class="paragraph">
+<p>Someone made a video, but i don&#8217;t think you&#8217;ll need it&#8230;&#8203;</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_choose_a_theme">Choose a theme</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The default theme is casper&#8230;&#8203; Let&#8217;s try another one. <em>uno</em> and <em>saga</em> themes are known for having a better code block support, so they seem to be a good choice for me. In order to do that, two possibilies: modify the hubpress/config.json file, or click the "settings" menu entry.</p>
 </div>
 </div>
 </div>]]></description><link>https://severin31.github.io/2017/10/20/Easy-start-with-Hub-Press.html</link><guid isPermaLink="true">https://severin31.github.io/2017/10/20/Easy-start-with-Hub-Press.html</guid><dc:creator><![CDATA[Séverin T-Saracino]]></dc:creator><pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate></item></channel></rss>
