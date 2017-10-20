@@ -8,7 +8,7 @@
 == How I installed Hubpress
 
 . Fork the hubpress.io repository
-. Rename your repository to kskarthik.github.io
+. Rename your repository to severin31.github.io
 . Set values in hubpress/config.json like this :
 
 [Source, Json]
