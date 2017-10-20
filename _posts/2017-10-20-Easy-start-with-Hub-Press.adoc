@@ -27,5 +27,8 @@ video::-gLCX9THFX0[youtube]
 
 
 == Choose a theme
-The default theme is casper... Let's try another one. _uno_ and _saga_ themes are known for having a better code block support, so they seem to be a good choice for me. In order to do that, two possibilies: modify the hubpress/config.json file, or click the "settings" menu entry. Be patient, refreshment sometimes takes several minutes.
+The default theme is casper... Let's try another one. _uno_ and _saga_ themes are known for having a better code block support, so they seem to be a good choice for me. In order to do that, two possibilies: modify the hubpress/config.json file, or click the "settings" menu entry. Be patient, refreshment sometimes takes several minutes :-/
 
+*To be continued...*
+
+See you soon!
