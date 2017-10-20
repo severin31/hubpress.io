@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno"
   },
   "urls": {
     "site": "https://severin31.github.io",
     "hubpress": "https://severin31.github.io",
-    "theme": "//severin31.github.io/themes/saga",
+    "theme": "//severin31.github.io/themes/the-shell",
     "images": "https://severin31.github.io/images"
   },
   "initialisationConfigComponent": {
