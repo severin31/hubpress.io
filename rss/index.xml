@@ -1,39 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yet Another Personal Weblog About Computing]]></title><description><![CDATA[By Séverin T-Saracino]]></description><link>https://severin31.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Oct 2017 07:23:34 GMT</lastBuildDate><atom:link href="https://severin31.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My first post]]></title><description><![CDATA[<div class="sect1">
-<h2 id="_how_i_installed_hubpress">How I installed Hubpress</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yet Another Personal Weblog About Computing]]></title><description><![CDATA[By Séverin T-Saracino]]></description><link>https://severin31.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Oct 2017 09:27:42 GMT</lastBuildDate><atom:link href="https://severin31.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Easy start with HubPress]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_the_easy_installation_step_by_step">The easy installation step by step</h2>
 <div class="sectionbody">
+<div class="paragraph">
+<p>To install <a href="http://hubpress.io/">HubPress</a>, just follow <strong>this</strong> little recipe:</p>
+</div>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>Fork the hubpress.io repository</p>
+<p><strong>Fork</strong> the <a href="https://github.com/HubPress/hubpress.io/fork">hubpress.io repository</a></p>
 </li>
 <li>
-<p>Rename your repository to severin31.github.io</p>
+<p><strong>Rename</strong> your repository to [yourgithubusername].github.io</p>
 </li>
 <li>
-<p>Set values in hubpress/config.json like this :</p>
-</li>
-</ol>
-</div>
+<p><strong>Set</strong> values in hubpress/config.json
+(optional since version 0.8)</p>
 <div class="listingblock">
 <div class="content">
-<pre>{
-  "meta": {
-    "username": "severin31",
-    "repositoryName": "severin31.github.io",
+<pre class="highlight"><code>"meta": {
+    "username": "[yourgithubusername]",
+    "repositoryName": "[yourgithubusername].github.io",
     "branch": "master"
-  }
-}</pre>
+}</code></pre>
 </div>
 </div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Go to <a href="https://severin31.github.io/hubpress" class="bare">https://severin31.github.io/hubpress</a></p>
 </li>
 <li>
-<p>Login and write</p>
+<p><strong>Go to</strong> <code>https://[yourgithubusername].github.io/hubpress</code></p>
+</li>
+<li>
+<p><strong>Login</strong> and&#8230;&#8203; start to write ^^</p>
 </li>
 </ol>
 </div>
+<div class="paragraph">
+<p>Someone made a video&#8230;&#8203;</p>
 </div>
-</div>]]></description><link>https://severin31.github.io/2017/10/20/My-first-post.html</link><guid isPermaLink="true">https://severin31.github.io/2017/10/20/My-first-post.html</guid><dc:creator><![CDATA[Séverin T-Saracino]]></dc:creator><pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate></item></channel></rss>
+<div class="videoblock">
+<div class="content">
+<iframe src="https://www.youtube.com/embed/gLCX9THFX0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://severin31.github.io/2017/10/20/Easy-start-with-Hub-Press.html</link><guid isPermaLink="true">https://severin31.github.io/2017/10/20/Easy-start-with-Hub-Press.html</guid><dc:creator><![CDATA[Séverin T-Saracino]]></dc:creator><pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate></item></channel></rss>
