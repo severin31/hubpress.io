@@ -1,27 +1,26 @@
-= My first post
+= Easy start with HubPress
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
-== How I installed Hubpress
+== The easy installation step by step
+To install http://hubpress.io/[HubPress], just follow *this* little recipe:
 
-. Fork the hubpress.io repository
-. Rename your repository to severin31.github.io
-. Set values in hubpress/config.json like this :
-
-[Source, Json]
-----
-{
-  "meta": {
-    "username": "severin31",
-    "repositoryName": "severin31.github.io",
+. *Fork* the https://github.com/HubPress/hubpress.io/fork[hubpress.io repository]
+. *Rename* your repository to [yourgithubusername].github.io
+. *Set* values in hubpress/config.json
+(optional since version 0.8) 
+[source,]
+"meta": {
+    "username": "[yourgithubusername]",
+    "repositoryName": "[yourgithubusername].github.io",
     "branch": "master"
-  }
 }
-----
+. *Go to* `https://[yourgithubusername].github.io/hubpress`
+. *Login* and... start to write ^^
 
-. Go to https://severin31.github.io/hubpress
+Someone made a video...
 
-. Login and write
+video::gLCX9THFX0[youtube]
