@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://severin31.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Oct 2017 05:26:21 GMT</lastBuildDate><atom:link href="https://severin31.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Séverin Tagliante-Saracino]]></title><link>https://severin31.github.io/2017/10/20/Severin-Tagliante-Saracino.html</link><guid isPermaLink="true">https://severin31.github.io/2017/10/20/Severin-Tagliante-Saracino.html</guid><dc:creator><![CDATA[Séverin T-Saracino]]></dc:creator><pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://severin31.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 20 Oct 2017 05:35:56 GMT</lastBuildDate><atom:link href="https://severin31.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My first post]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_how_i_installed_hubpress">How I installed Hubpress</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="title">Set values in hubpress/config.json like this :</div>
+<div class="content">
+<pre>{
+  "meta": {
+    "username": "severin31",
+    "repositoryName": "severin31.github.io",
+    "branch": "master"
+  }
+}</pre>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://severin31.github.io/2017/10/20/My-first-post.html</link><guid isPermaLink="true">https://severin31.github.io/2017/10/20/My-first-post.html</guid><dc:creator><![CDATA[Séverin T-Saracino]]></dc:creator><pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate></item></channel></rss>
